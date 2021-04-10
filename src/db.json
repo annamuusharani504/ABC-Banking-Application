@@ -1,0 +1,198 @@
+{
+    "users": [
+      {
+        "id": 2,
+        "name": "sandhya",
+        "username": "P.sandhya",
+        "email": "p.sandhya@gmail.com",
+        "phone": "867567890",
+        "website": "anastasia.net",
+        "role": "User",
+        "password": "User@1234",
+        "balance": 0,
+        "AadharNo": 793567536899,
+        "cType": "current Account",
+        "sType": "savings Account",
+        "currentBalance": 1000,
+        "transaction": [
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-24T10:46:16.412Z",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Rani Annam",
+        "username": "Rani",
+        "email": "Rani4@gmail.com",
+        "role": "Admin",
+        "password": "Admin@1234",
+        "phone": "210.067.6132",
+        "website": "elvis.io",
+        "balance": 0,
+        "AadharNo": 560984914798,
+        "cType": "current Account",
+        "sType": "savings Account",
+        "currentBalance": 0,
+        "transaction": []
+      },
+      {
+        "id": 9,
+        "name": "Raja",
+        "username": "K.Raja",
+        "email": "raja@gmail.com",
+        "phone": "8976854362",
+        "website": "conrad.com",
+        "role": "User",
+        "password": "User@1234",
+        "balance": 0,
+        "AadharNo": 560984823408,
+        "cType": "current Account",
+        "sType": "savings Account",
+        "currentBalance": 0,
+        "transaction": []
+      },
+      {
+        "name": "vijay",
+        "username": "D.vijay",
+        "email": "vijay@gmail.com",
+        "phone": "8976854362",
+        "website": " ",
+        "role": "User",
+        "AadharNo": 304867856794,
+        "balance": 300,
+        "password": "User@1234",
+        "currentBalance": 2311,
+        "id": 10,
+        "transaction": [
+          {
+            "type": "Credit",
+            "accountType": "Savings",
+            "dateTime": "2021-02-25T04:47:12.273Z",
+            "amount": "300"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-25T04:49:33.513Z",
+            "amount": "200"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-25T04:50:24.576Z",
+            "amount": "500"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-25T04:51:43.837Z",
+            "amount": "90"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-25T07:00:38.246Z",
+            "amount": "700"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-25T07:01:37.622Z",
+            "amount": "737"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-25T10:48:11.917Z",
+            "amount": "200"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-25T10:52:04.471Z",
+            "amount": "80"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-25T10:52:11.782Z",
+            "amount": "3"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-26T03:40:45.188Z",
+            "amount": "1"
+          }
+        ]
+      },
+      {
+        "name": "Krishna",
+        "username": "Krish",
+        "email": "Krish444@gmail.com",
+        "phone": "6786874687",
+        "website": " ",
+        "AadharNo": "349919886767",
+        "balance": "500",
+        "password": "krish@1234",
+        "currentBalance": "1000",
+        "id": 11
+      },
+      {
+        "name": "Abhi",
+        "username": "Abhiram",
+        "email": "abhi@gmail.com",
+        "phone": "9086874689",
+        "website": " ",
+        "AadharNo": "12873273123",
+        "balance": "3000",
+        "password": "Abhi@1234",
+        "currentBalance": "500",
+        "id": 12
+      },
+      {
+        "name": "Ajay",
+        "username": "Ajay Kumar",
+        "email": "ajay@gmail.com",
+        "phone": "8794874680",
+        "website": " ",
+        "AadharNo": "86473248967",
+        "balance": "4000",
+        "password": "Ajay@1234",
+        "currentBalance": "5000",
+        "transaction": [],
+        "id": 13
+      },
+      {
+        "name": "Jaanu",
+        "username": "Jaanaki",
+        "email": "jaanu@gmail.com",
+        "phone": "8946794687",
+        "website": " ",
+        "AadharNo": "2568659896666",
+        "balance": 100000,
+        "password": "jaanu@1234",
+        "currentBalance": 5100,
+        "transaction": [
+          {
+            "type": "Credit",
+            "accountType": "Current",
+            "dateTime": "2021-02-24T11:26:32.946Z",
+            "amount": "5000"
+          },
+          {
+            "type": "Credit",
+            "accountType": "Savings",
+            "dateTime": "2021-02-24T11:27:15.046Z",
+            "amount": "100000"
+          }
+        ],
+        "role": "User",
+        "id": 10
+      }
+    ]
+  }
